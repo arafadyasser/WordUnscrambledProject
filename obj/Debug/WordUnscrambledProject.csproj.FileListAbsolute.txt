@@ -1,0 +1,3 @@
+C:\Users\YASSER ARAFAD\Desktop\WordUnscrambledProject\obj\Debug\WordUnscrambledProject.csproj.AssemblyReference.cache
+C:\Users\YASSER ARAFAD\Desktop\WordUnscrambledProject\obj\Debug\WordUnscrambledProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASSER ARAFAD\Desktop\WordUnscrambledProject\obj\Debug\WordUnscrambledProject.csproj.CoreCompileInputs.cache
